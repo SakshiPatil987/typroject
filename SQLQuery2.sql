@@ -1,0 +1,1 @@
+﻿ALTER TABLE Users1 ADD dob DATE;
